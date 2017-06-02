@@ -5,6 +5,8 @@
 
 .article {
     text-align: left;
+    float: left;
+    width: 60%;
 }
 
 .flex-container {
