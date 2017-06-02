@@ -5,8 +5,6 @@
 
 .article {
     text-align: left;
-    float: left;
-    width: 60%;
 }
 
 .flex-container {
@@ -15,6 +13,8 @@
     -webkit-flex-flow: row wrap;
     flex-flow: row wrap;
     text-align: center;
+    float: left;
+    width: 60%;
 }
 
 .flex-container > * {
